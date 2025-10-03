@@ -1,1 +1,1 @@
-cd linux-git-cheatsheet
+git checkout -b ls-command 
